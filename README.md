@@ -92,6 +92,16 @@ sonu = {
 
 ---
 
+## 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu-H-N&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&area_color=bf91f3" width="100%"/>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
