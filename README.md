@@ -131,7 +131,3 @@ sonu = {
 
 </div>
 ```
-
-**One thing to fix before pasting:** The code block inside the About Me section uses triple backticks — GitHub's markdown will break if those inner backticks aren't handled right. When you paste into your `README.md` file directly, remove the spaces I added in `` ` ` ` `` and make them proper ` ``` ` closing backticks.
-
-Also, update the NeuroCare-AI repo link to match your actual repo name/URL if it's different. Keep it pinned at the top of the projects table — it's your most impressive project and deserves the spotlight! 🧠
