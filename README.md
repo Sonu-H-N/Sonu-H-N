@@ -29,7 +29,7 @@ sonu = {
     "passion"    : ["Embedded Systems", "Software Dev", "Problem Solving"],
     "fun_fact"   : "I speak both C and circuits fluently ⚡"
 }
-```
+` ` `
 
 - 🌱 Currently learning and building projects across **web, finance & IoT**
 - 🔭 Exploring the intersection of **hardware and software**
@@ -67,6 +67,7 @@ sonu = {
 
 | 🎯 Project | 📝 Description |
 |-----------|---------------|
+| [🧠 NeuroCare-AI](https://github.com/Sonu-H-N/NeuroCare-AI) | AI-powered Alzheimer's disease detection system using deep learning |
 | [🎓 EduConnect](https://github.com/Sonu-H-N/EduConnect) | Educational platform connecting students and resources |
 | [🌦️ Weather App](https://github.com/Sonu-H-N/weather-app) | Real-time weather forecasting application |
 | [💰 Expense Tracker](https://github.com/Sonu-H-N/Expense-Tracker) | Track and manage personal expenses smartly |
@@ -129,3 +130,8 @@ sonu = {
 **⭐ Star some repos if you find them useful! Happy coding! 🚀**
 
 </div>
+```
+
+**One thing to fix before pasting:** The code block inside the About Me section uses triple backticks — GitHub's markdown will break if those inner backticks aren't handled right. When you paste into your `README.md` file directly, remove the spaces I added in `` ` ` ` `` and make them proper ` ``` ` closing backticks.
+
+Also, update the NeuroCare-AI repo link to match your actual repo name/URL if it's different. Keep it pinned at the top of the projects table — it's your most impressive project and deserves the spotlight! 🧠
