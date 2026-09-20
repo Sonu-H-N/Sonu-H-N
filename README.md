@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Sonu%20H%20N%20👋&fontSize=40&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!%20I'm%20Sonu%20H%20N%20👋&fontSize=40&fontColor=fff"[...]
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=🎓+ECE+Student+%7C+Code+Enthusiast;💡+Building+tech+that+matters" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=🎓+ECE+Student+%7C+Code+Enthusiast;💡+Building[...]
 </a>
 <br>
 
@@ -29,15 +29,17 @@ sonu = {
         "AI"
     ],
 
-    "currently_learning": ["MySQL", "Web Development", "IoT"],
+    "currently_learning": ["Python", "Web Development", "AI"],
+    "completed": ["MySQL"],
 
     "fun_fact": "I speak both C and circuits fluently ⚡"
 }
 ```
 
-- 🌱 Currently deepening my skills in **MySQL, Web Development, AI & IoT**
-- 🔭 Exploring **Hardware + Software Integration**
-- 🗄️ Learning to design and query **relational databases**
+- 🌱 Currently learning **Python** and building projects with it
+- ✅ Completed **MySQL** and learned database fundamentals
+- 🔭 Exploring **Web Development, AI & IoT**
+- 🗄️ Working on practical SQL and backend concepts
 - 💬 Ask me about **C, C++, Python, Java, SQL**
 - 🎯 Goal → **Build technology that matters**
 - 📫 Reach me at → *add your email here*
@@ -86,7 +88,7 @@ sonu = {
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|----------|-------------|------|
+| |----------|-------------|------|
 | 🧠 **NeuroCare-AI** | AI-powered Alzheimer's disease detection | Python, ML |
 | 🎓 **EduConnect** | Platform connecting students | Web, DB |
 | 🌦️ **Weather App** | Real-time weather forecasting | API, JS |
